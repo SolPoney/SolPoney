@@ -39,7 +39,7 @@ Je développe dans plusieurs directions à la fois : projets open source, outils
 
 Je suis sourd, je perds la vue et l'équilibre. Je crois à la vie et j'essaie d'en profiter. Je ne peux pas rester enfermé une journée sans voir le soleil — j'ai besoin d'être dehors.
 
-Je fais de l'ultrafond : 100 km en course à pied, 8h de natation en bassin de 25m, 24h sur home trainer. Je suis curieux de tout — biologie, médecine, physique, astronomie, botanique, politique, économie, art, cybersécurité... la liste est longue. J'écris aussi : poèmes, romans, nouvelles. Je voyage dès que je peux.
+Je fais de l'ultrafond : je cours 100 km en course à pied, peux nager 8h de natation en bassin de 25m, pédale 24h sur home trainer. Je suis curieux de tout — biologie, médecine, physique, astronomie, botanique, politique, économie, art, cybersécurité... la liste est longue. J'écris aussi : poèmes, romans, nouvelles. Je voyage dès que je peux.
 
 Je ne crois pas aux dogmes. La technologie ne fait pas tout. Je crois à l'importance des petites choses, à la nuance, à l'écoute.
 
