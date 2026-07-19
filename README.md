@@ -37,7 +37,11 @@ Je développe dans plusieurs directions à la fois : projets open source, outils
 
 ## En dehors du code
 
-Je fais beaucoup de sport. Je suis curieux de tout — biologie, médecine, physique, astronomie, botanique, politique, économie, art, cybersécurité... la liste est longue. J'écris aussi : poèmes, romans, nouvelles. Je voyage dès que je peux.
+Je suis sourd, je perds la vue et l'équilibre. Je crois à la vie et j'essaie d'en profiter. Je ne peux pas rester enfermé une journée sans voir le soleil — j'ai besoin d'être dehors.
+
+Je fais de l'ultrafond : 100 km en course à pied, 8h de natation en bassin de 25m, 24h sur home trainer. Je suis curieux de tout — biologie, médecine, physique, astronomie, botanique, politique, économie, art, cybersécurité... la liste est longue. J'écris aussi : poèmes, romans, nouvelles. Je voyage dès que je peux.
+
+Je ne crois pas aux dogmes. La technologie ne fait pas tout. Je crois à l'importance des petites choses, à la nuance, à l'écoute.
 
 Côté mode de travail : je suis un productif impulsif. Quand quelque chose m'accroche, je peux coder 12h non-stop sans voir le temps passer.
 
