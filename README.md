@@ -1,26 +1,15 @@
-# Bonjour, je suis Thomas Soret 👋
+# Thomas Soret
 
-> *« La technologie doit fonctionner pour tout le monde. »*
+Développeur web full-stack — autodidacte, puis formation intensive de 5 mois. Je suis sourdaveugle, et cette expérience vécue façonne profondément ma vision du développement : les outils doivent être accessibles. Je mets le paquet sur le RGAA et le respect des WCAG.
 
----
-
-## À propos de moi
-
-Je suis **développeur web full-stack en apprentissage** — d'abord autodidacte, puis via une formation intensive de 5 mois pour consolider la théorie et multiplier la pratique.
-
-Je suis aussi **sourdaveugle**, et cette expérience vécue façonne profondément ma vision du développement : l'accessibilité n'est pas une option, c'est un fondement.
-
-### Engagement
-
-- 🏛️ **Président d'[Unanimes](https://unanimes.org)** — collectif national qui représente les **7 millions** de personnes sourdes, malentendantes, sourdaveugles et leurs familles
-- 🗳️ **Membre du CESE** (Conseil Économique, Social et Environnemental) — au titre du Collectif Handicaps
-- ♿ Convaincu que le numérique accessible est un droit, pas un bonus
+**Président d'[Unanimes](https://unanimes.org)** — collectif national représentant 7 millions de personnes sourdes, malentendantes et sourdaveugles.
+**Membre du CESE** (Conseil Économique, Social et Environnemental) — au titre du Collectif Handicaps.
 
 ---
 
 ## Projets
 
-Je développe dans plusieurs directions à la fois : projets **open source**, outils **pour moi-même**, applications **pour la communauté sourde et sourdaveugle**, et projets **commerciaux**.
+Je développe dans plusieurs directions à la fois : projets open source, outils pour moi-même, applications pour certains publics (malentendants, sourds, sourdaveugles, déficients visuels, etc), et projets commerciaux.
 
 ### Projets phares
 
@@ -35,8 +24,6 @@ Je développe dans plusieurs directions à la fois : projets **open source**, ou
 | Projet | Description | Tech |
 |---|---|---|
 | [intranetUNANIMES](https://github.com/SolPoney/intranetUNANIMES) | Intranet du collectif Unanimes | TypeScript |
-| [prm-cese](https://github.com/SolPoney/prm-cese) | Application fullstack — React + Express + Prisma ORM — pour le CESE | TypeScript |
-| [unanimes-rapport](https://github.com/SolPoney/unanimes-rapport) | Rapport annuel Unanimes | TypeScript |
 | [surdicecoute](https://github.com/SolPoney/surdicecoute) | Plateforme d'écoute accessible pour personnes sourdaveugles | TypeScript |
 
 ### Apprentissage & exploration
@@ -45,8 +32,6 @@ Je développe dans plusieurs directions à la fois : projets **open source**, ou
 |---|---|---|
 | [visit-immobilier-app](https://github.com/SolPoney/visit-immobilier-app) | Application de gestion de visites immobilières | TypeScript |
 | [figuresdestyle](https://github.com/SolPoney/figuresdestyle) | Entraînement figures de style | TypeScript |
-| [apprentissage-nestjs](https://github.com/SolPoney/apprentissage-nestjs) | Node.js, Express et NestJS — projets pratiques | TypeScript |
-| [entrainement](https://github.com/SolPoney/entrainement) | Serveur HTTP natif, routing et premiers pas backend | Node.js |
 
 ---
 
@@ -79,14 +64,6 @@ Je développe dans plusieurs directions à la fois : projets **open source**, ou
 
 Formation full-stack sur **[Dyma](https://dyma.fr)** — depuis décembre 2023
 
-| Indicateur | Valeur |
-|---|---|
-| Formations en cours | 32 |
-| Formations terminées | 1 |
-| Score de révision global | 72 % (6 sessions) |
-| Pic d'activité | Avril 2026 — 13,3 h |
-| Membre depuis | Décembre 2023 |
-
 Technologies explorées : JavaScript · HTML & CSS · Angular 16 · Linux & Bash · Figma · TypeScript · Python · Tailwind · React · NestJS · ASP.Net Web API · Git · React Native
 
 ---
@@ -103,15 +80,7 @@ Technologies explorées : JavaScript · HTML & CSS · Angular 16 · Linux & Bash
 
 ---
 
-## Me contacter
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-soret)
 [![Unanimes](https://img.shields.io/badge/Unanimes-collectif_national-6D28D9?style=flat-square)](https://unanimes.org)
-
----
-
-<div align="center">
-
-*Construire un web accessible, un commit à la fois.*
-
-</div>
