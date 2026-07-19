@@ -35,6 +35,14 @@ Je développe dans plusieurs directions à la fois : projets open source, outils
 
 ---
 
+## En dehors du code
+
+Je fais beaucoup de sport. Je suis curieux de tout — biologie, médecine, physique, astronomie, botanique, politique, économie, art, cybersécurité... la liste est longue. J'écris aussi : poèmes, romans, nouvelles. Je voyage dès que je peux.
+
+Côté mode de travail : je suis un productif impulsif. Quand quelque chose m'accroche, je peux coder 12h non-stop sans voir le temps passer.
+
+---
+
 ## Stack technique
 
 ### Front-End
