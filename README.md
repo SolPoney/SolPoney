@@ -2,7 +2,7 @@
 
 Développeur web full-stack — autodidacte, puis formation intensive de 5 mois. Je suis sourdaveugle, et cette expérience vécue façonne profondément ma vision du développement : les outils doivent être accessibles. Je mets le paquet sur le RGAA et le respect des WCAG.
 
-**Président d'[Unanimes](https://unanimes.org)** — collectif national représentant 7 millions de personnes sourdes, malentendantes et sourdaveugles.
+**Président d'[Unanimes](https://unanimes.fr)** — collectif national représentant 7 millions de personnes sourdes, malentendantes et sourdaveugles.
 **Membre du CESE** (Conseil Économique, Social et Environnemental) — au titre du Collectif Handicaps.
 
 ---
@@ -17,7 +17,7 @@ Je développe dans plusieurs directions à la fois : projets open source, outils
 |---|---|---|
 | [Audely](https://audely-desktop.vercel.app/) | Application de rééducation auditive — desktop + backend | Commercial |
 | [surdicecite.fr](https://surdicecite.fr/) | Site de référence sur la surdicécité | Communauté |
-| [LecteurRapide](https://github.com/SolPoney/LecteurRapide) | Lecteur RSVP open source — lisez vos EPUB 3× plus vite, dans le navigateur | Open source |
+| [LecteurRapide](https://github.com/SolPoney/LecteurRapide) | Lecteur RSVP open source (méthode Spritz) — EPUB, PDF, TXT · App desktop Linux (Tauri + Rust) · Polices Luciole & OpenDyslexic · React 19, Vite, 47 tests | Open source |
 
 ### Liés à mes missions
 
@@ -95,4 +95,4 @@ Technologies explorées : JavaScript · HTML & CSS · Angular 16 · Linux & Bash
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-soret)
-[![Unanimes](https://img.shields.io/badge/Unanimes-collectif_national-6D28D9?style=flat-square)](https://unanimes.org)
+[![Unanimes](https://img.shields.io/badge/Unanimes-collectif_national-6D28D9?style=flat-square)](https://unanimes.fr)
