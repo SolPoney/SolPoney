@@ -1,6 +1,6 @@
 # Thomas Soret
 
-Développeur web full-stack — autodidacte, puis formation intensive de 5 mois. Je suis sourdaveugle, et cette expérience vécue façonne profondément ma vision du développement : les outils doivent être accessibles. Je mets le paquet sur le RGAA et le respect des WCAG.
+Développeur web full-stack — d'abord autodidacte grâce à des ressources en ligne, puis souhaitant me perfectionner, j'ai suivi une formation intensive de 5 mois. Je suis sourdaveugle, et cette expérience vécue façonne profondément ma vision du développement : les outils doivent être accessibles. Je mets le paquet sur le RGAA et le respect des WCAG.
 
 **Président d'[Unanimes](https://unanimes.fr)** — collectif national représentant 7 millions de personnes sourdes, malentendantes et sourdaveugles.
 **Membre du CESE** (Conseil Économique, Social et Environnemental) — au titre du Collectif Handicaps.
